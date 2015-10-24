@@ -22,6 +22,8 @@ import android.view.WindowManager.LayoutParams;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+// lipengfei
+// 2015-10-24
 public class ChallengeFloatManager {
 	/**
 	 * ChallengeDialog 动画
